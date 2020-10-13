@@ -1,0 +1,8 @@
+enormous opportunities for hackers or security specialists to earn rewards by using their skills to make the internet safer. How to get started in Bug Bounties? is a common question nowadays, and we keep on getting messages about it every day. To meet expectations we decided to prepare a whole edition dedicated to the Bug 
+Bounty Hunting topic. It is said that anyone with computer skills and a high degree of curiosity can become 
+a successful finder of vulnerabilities. You can be young or old when you start. We hope that this edition will 
+help you get started.
+The magazine contains 12 interviews with people that went through the process of becoming a Bug Bounty 
+Hunter and were willing to share their experience. While reading their stories you will learn about the best 
+and most efficient tools for finding exploits, what resources are available for beginners, whether its worth it 
+to become part of the community to seek support. There is plenty of other information inside, and 
