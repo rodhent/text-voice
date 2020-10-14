@@ -2,18 +2,20 @@ const fs = require('fs')
 const pdf = require('pdf-parse')
 const gTTS = require('gtts.js').gTTS
 
-let pdftext = fs.readFileSync('hunter.pdf')
+let pdfText = fs.readFileSync('hunter.pdf')
 
 
-console.log(pdftext)
+console.log(pdfText)
 
-pdf(pdftext).then((data) => {
+pdf(pdfText).then((data) => {
    
-    console.log(data.numrender)
+    console.log(data.numRender)
     console.log(data.text[1])
 
     let text = data.text.split(' ')
     let working = ('How to get started in Bug Bounties? is a common question nowadays, and we keep on getting messages about it every day. To meet expectations we decided to prepare a whole edition dedicated to the Bug Bounty Hunting topic. It is said that anyone with computer skills and a high degree of curiosity can become a successful finder of vulnerabilities. You can be young or old when you start. We hope that this edition will help you get started')
+    
+    
     // let working = []
 
     // for(let i = 100; i < 301; i++) {
