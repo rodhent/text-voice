@@ -1,6 +1,6 @@
 const fs = require('fs')
 const pdf = require('pdf-parse')
-const gTTS = require('gtts.js').gTTS
+const gTTS = require('gTTS.js').gTTS
 
 let pdfText = fs.readFileSync('hunter.pdf')
 
